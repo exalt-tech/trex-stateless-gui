@@ -6,7 +6,7 @@ TRex Stateless GUI application provides a graphical user interface for [TRex](ht
 
 TRex Stateless GUI application is a JavaFX based application.
 
-![alt text](screenshots/trex-main-dashboard.png "TRex Main Dashboard") 
+![alt text](screenshots/trex-main-dashboard.PNG "TRex Main Dashboard") 
 
 The application can main features can be split into two parts (TRex Management and Traffic Profile management):
 
@@ -28,7 +28,7 @@ This is an online part, you need to be connected to TRex in order to perform the
 
 Traffic Profile Management is an offline tool, you can use it without connecting to TRex server.
 
-![alt text](screenshots/trex-stream-builder2.png "TRex Stream Builder") 
+![alt text](screenshots/trex-stream-builder2.PNG "TRex Stream Builder") 
 
 **Main Features**
 
@@ -39,7 +39,7 @@ Traffic Profile Management is an offline tool, you can use it without connecting
 - Ability to build a stream from existing PCAP file or from scratch (using advanced Stream builder).
 - Ability to export a stream to PCAP format.
 
-![alt text](screenshots/trex-stream-properties.png "TRex Stream Properties") 
+![alt text](screenshots/trex-stream-properties.PNG "TRex Stream Properties") 
 
 ## Build a Native App
 
@@ -88,9 +88,9 @@ It is recommended to use NetBeans IDE 8.1 or above. There is no need to install 
 
 To install TRex, double click the installer binary and follow the instructions to complete the installation setup.
 
-![alt text](screenshots/installer-1.png "TRex Stream Builder") 
+![alt text](screenshots/installer-1.PNG "TRex Stream Builder") 
 
-![alt text](screenshots/installer-2.png "TRex Stream Builder") 
+![alt text](screenshots/installer-2.PNG "TRex Stream Builder") 
 
 
 ## YouTrack
