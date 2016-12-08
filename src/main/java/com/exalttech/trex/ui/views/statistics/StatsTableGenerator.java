@@ -60,7 +60,7 @@ public class StatsTableGenerator {
     public StatsTableGenerator() {
         statTable = new GridPane();
         statTable.setCache(false);
-        statTable.getStyleClass().add("statsTable");
+     
         statTable.setGridLinesVisible(false);
     }
 
@@ -192,6 +192,7 @@ public class StatsTableGenerator {
      * @param key
      * @return
      */
+    
     private StatisticCell getGridCell(StatisticRow row, double width, String key) {
         if (gridCellsMap.get(key) != null) {
             StatisticCell cell = gridCellsMap.get(key);
