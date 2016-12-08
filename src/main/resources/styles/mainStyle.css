@@ -389,13 +389,6 @@ connectContent .titled-pane:focused .title .arrow-button .arrow {
     Stats table
 ***************************/
 
-.statsTable{
-    -fx-background-color: #FFFFFF;
-    -fx-border-width:1px 0px 0px 1px;
-    /*-fx-border-width:0px 0px 0px 0px;*/
-    -fx-border-style: solid;
-    -fx-border-color: #cfcfcf; 
-}
 
 .statsTableColHeader{
     -fx-background-color: #32b4ea;
@@ -414,7 +407,7 @@ connectContent .titled-pane:focused .title .arrow-button .arrow {
 }
 .statsTableColCell{
     /*-fx-border-width:0px 0px 0px 0px;*/
-    -fx-border-width:0px 1px 1px 0px;
+    -fx-border-width: 0.5px;
     -fx-border-style: solid;
     -fx-border-color: #cfcfcf; 
     -fx-padding: 0px 0px 0px 10px;
